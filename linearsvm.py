@@ -14,4 +14,3 @@ SVM_Model = SVC(kernel='linear')
 SVM_Model.fit(x,y)
 
 print(f'Accuracy - : {SVM_Model.score(x,y):.3f}')
-

@@ -2,7 +2,7 @@
 
 **Why this Research?**
 
-This research was created by me, Rish Mishra, in my Junior year of High School as part of the AOS (Academies of Science program) in ACL (Academies of Loudoun). The program encourages students to come up with novel, induvidual research to contribute to science, and then present it at an ACL hosted event known as Science Symposium. I began ideating in 10th grade as part of the program. As of 5/12/24, I plan on extending this project to fit multiple algorithms in my senior year, and compare those errors to each other, now that I have achieved my goal of error for this particular algorithim. 
+This research was created by me, Rish Mishra, in my junior year of high school as part of the AOS (Academies of Science program) in ACL (Academies of Loudoun). The program encourages students to come up with novel, induvidual research to contribute to science, and then present it at an ACL hosted event known as Science Symposium. I began ideating in 10th grade as part of the program. As of 5/12/24, I plan on extending this project to fit multiple algorithms in my senior year, and compare those errors to each other, now that I have achieved my goal of error for this particular algorithim. 
 
 **Background Paper on Research** → 
 https://docs.google.com/document/d/1fVBYfrGii1bq3rJRCgMft91kkJa1_uxy2CK3FJsnbsA/edit?usp=sharing

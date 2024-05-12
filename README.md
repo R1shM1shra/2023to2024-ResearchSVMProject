@@ -6,8 +6,10 @@ This research was created by me, Rish Mishra, in my junior year of high school a
 
 **Background Paper on Research** → 
 https://docs.google.com/document/d/1fVBYfrGii1bq3rJRCgMft91kkJa1_uxy2CK3FJsnbsA/edit?usp=sharing
+
 **Experimental Design** → 
 https://docs.google.com/document/d/1fLyVFwLq529qn6ochCbikrXrt125Rvwtyapj5y0fUeE/edit?usp=sharing
+
 **Poster for Symposium** → 
 https://docs.google.com/presentation/d/14j6jFhoFxv7eE9BF7bI_RxX_lACQStBQ/edit?usp=sharing&ouid=109541641759675777203&rtpof=true&sd=true
 
